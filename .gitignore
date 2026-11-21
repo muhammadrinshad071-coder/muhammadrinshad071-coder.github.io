@@ -1,0 +1,10 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Azoder is deployed separately; the personal portfolio uses its screenshot.
+/azoder/*
+!/azoder/assets/
+/azoder/assets/*
+!/azoder/assets/acezoder-preview.jpg
