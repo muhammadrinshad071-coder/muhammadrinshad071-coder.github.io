@@ -1,7 +1,7 @@
 RINSHAD'S PERSONAL PORTFOLIO + AZODER'S COMPANY WEBSITE
 
 Personal portfolio: index.html
-Company website: azoder/index.html
+Company website (local workspace): azoder/index.html
 
 The personal portfolio introduces Muhammed Rinshad, his skills, education,
 AceZoder project and role as founder. Azoder has its own design, services,
@@ -14,6 +14,9 @@ Repository:
 
 Website:
   https://muhammadrinshad071-coder.github.io/
+
+Published on 21 November 2026. The Pages deployment completed successfully,
+and the live page, portrait, favicon and AceZoder screenshot were checked.
 
 Publishing source: main branch, / (root) folder. No build command is needed.
 The .nojekyll file makes GitHub Pages serve the static files directly.
@@ -31,6 +34,10 @@ To publish local edits, run these commands from this folder:
   git push origin main
 
 Chosen custom address: rinshad.us.kg. Registration and connection are pending.
+DigitalPlat's availability button remains disabled after the user accepted
+its listed terms; another account/form requirement or loading issue is pending.
+The user's dashboard shows that QZZ.IO consumes a paid slot; the free-slot
+and renewal details for the selected US.KG name still need confirmation.
 Before adding a CNAME file or changing Pages' custom-domain setting, confirm
 registration, the free slot, renewal requirements, and the DNS configuration.
 When the custom address is working, update og:url, og:image and the canonical
@@ -48,6 +55,7 @@ The personal index.html now links to this separate company site.
 Keep azoder/assets/acezoder-preview.jpg in the personal deployment, as it is the
 AceZoder project screenshot used by the personal portfolio. The .gitignore file
 includes that screenshot and excludes the separately deployed company source.
+The company's founder links now use the updated GitHub Pages personal address.
 
 Requested custom domain: azoder.eu.org. The EU.org request was submitted on
 21 November 2026 (confirmed by the user). It is attached to the Cloudflare Pages
